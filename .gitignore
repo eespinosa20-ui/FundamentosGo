@@ -1,0 +1,10 @@
+﻿# Binarios y ejecutables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Archivos de prueba y profiling
+*.test
+*.out
